@@ -6,3 +6,5 @@
 2.my_PI             interpolating polynomial
 
 3.my_eigenvalue     Jacobi's way to get eigenvalue and eigenvector
+
+4.my_QR             QR factorization_Householder-algorithm
